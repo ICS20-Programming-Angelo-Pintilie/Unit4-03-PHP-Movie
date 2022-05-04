@@ -1,0 +1,20 @@
+/* Created by: Angelo Pintilie
+* Created on: April 2022
+* This CSS file defines the style for index.html
+* Unit4-03-HTML-Movie
+*/
+
+body {
+	background-color: skyblue;
+}
+
+h1 {
+	background-color: #FFB6C1;
+	color: hsl(0, 0%, 0%);
+	padding: 40px;
+	text-align: center;
+}
+
+p {
+	background-color: #DB7093;
+}
